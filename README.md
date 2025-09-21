@@ -10,7 +10,7 @@ Este repositorio contiene evidencias de la creación y eliminación de recursos 
 - Servicios (crear y eliminar)
 
 Alumno: Sergio Tomas Torres Avila
-Matrícula: 204678
-Materia: Seguridad Informática
-Profesor: Luisa Leticia Campos Rodriguez
-Fecha: 19/09/2025
+Matrícula: 22718
+Materia: Arquitecturas de Software
+Profesor: Marco Antonio Ortega Rosales
+Fecha: 21/09/2025
